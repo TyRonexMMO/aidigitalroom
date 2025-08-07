@@ -1,0 +1,6 @@
+{
+  "name": "AI Tuition Receipt Generator (Khmer Version)",
+  "description": "A modern dashboard to generate official Cambodian tuition receipts in Khmer. Features single and bulk generation powered by AI, customization, and high-quality downloads.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
